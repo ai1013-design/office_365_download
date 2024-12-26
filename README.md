@@ -59,6 +59,8 @@ Use offline installer available for slower connections.
 - Desktop shortcuts appear for Word and Excel.
 - Welcome screen launches after installation completes.
 
+*Ready to explore the features of Quickbooks? Start your journey by visiting [Test Drive of Quickbooks](https://whips-kicks.com/quickbooks-test-drive/) Software.*
+
 ## Post-installation Setup
 _Time Required: 15 minutes_
 
